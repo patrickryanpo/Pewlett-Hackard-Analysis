@@ -24,8 +24,6 @@ The following findings have been made based on this study:
 
 ![Mentorship Eligibility](https://github.com/patrickryanpo/Pewlett-Hackard-Analysis/blob/main/mentorship%20eligibility%20count.png)
 
-- 
-
 # Summary
 
 Based on the aforementioned findings and analysis, there will be 90,398 positions to be filled based on projected employee retirements. They will have to start planning on filling these roles in order to effectively transition employees effectively. 

@@ -11,7 +11,7 @@ The initial data and relationships are presented by the ERD below.
 The following findings have been made based on this study:
 - We were able to represent the number of expected retirees per department as represented in the retiring_titles file.
 
-![Retiring Titles]()
+![Retiring Titles](https://github.com/patrickryanpo/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 
 - 1,549 Pewlett Hackard employees are eligible for the proposed mentorship program 
